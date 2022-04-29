@@ -1,0 +1,4 @@
+C:\Users\leahm\OneDrive\Desktop\Clone Checks\bricks-september2021-Jason-Moore23-Bricks\x64\Debug\Bricks.exe
+C:\Users\leahm\OneDrive\Desktop\Clone Checks\bricks-september2021-Jason-Moore23-Bricks\x64\Debug\Bricks.pdb
+C:\Users\leahm\OneDrive\Desktop\Clone Checks\Bricks_Clone\x64\Debug\Bricks.exe
+C:\Users\leahm\OneDrive\Desktop\Clone Checks\Bricks_Clone\x64\Debug\Bricks.pdb
